@@ -1,0 +1,6 @@
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> 
+= RESTART: C:/Users/gumma/OneDrive/Documents/fods lab programs/total sales price experiment 4.py
+Total Sales for the Year: 115000
+Percentage Increase (Q1 to Q4): 100.0 %
